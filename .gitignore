@@ -1,0 +1,26 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+.venv/
+env/
+.conda/
+.conda_env/
+
+# Arquivos tempor�rios
+*.log
+*.tmp
+*.swp
+
+# Configura��es locais
+.DS_Store
+Thumbs.db
+
+data/
+models_confis/
